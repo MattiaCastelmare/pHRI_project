@@ -21,5 +21,5 @@ Launch matlab:
 $ matlab 
 
 ```
-Run the main.m once inside matlab.
+Run the main.m file once inside matlab.
 
