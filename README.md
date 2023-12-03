@@ -5,15 +5,21 @@ The aim of the project is to develop a collision detection framework based on th
 \
 To see simulations and graphic results clone the repository:
 \
+```
 $ git clone https://github.com/MattiaCastelmare/pHRI_project.git
 \
+```
 Go into the folder /Script:
 \
+```
 $ cd /phRI-project/Script
 \
+```
 Launch matlab:
 \
+```
 $ matlab 
 \
+```
 Run the main.m once inside matlab.
 
